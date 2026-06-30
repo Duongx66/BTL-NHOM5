@@ -1,0 +1,2 @@
+Project: https://wandb.ai/ducduonglop8a-hanoi/csc4005-topic8-garbage-classification
+Latest analyzed run: https://wandb.ai/ducduonglop8a-hanoi/csc4005-topic8-garbage-classification/runs/m1ovrlzu

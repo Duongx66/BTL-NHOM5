@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+Pillow
+tqdm
+wandb
+onnx
+onnxruntime
+opencv-python
+streamlit
